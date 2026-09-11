@@ -1,0 +1,56 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>CMD_Create</RootNamespace>
+    <StartupObject>Sub Main</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsForms</MyType>
+    <Authors>K. D.</Authors>
+    <Company>Miyu Melu</Company>
+    <Product>Compressed Map Data Tool</Product>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <FileVersion>2.0.0</FileVersion>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Core Dictionary Module">
+      <HintPath>..\..\..\XenDesk-Tree\System\libraries.arc\Core Dictionary Module.dll</HintPath>
+    </Reference>
+    <Reference Include="neXt Window Managment System">
+      <HintPath>..\..\..\neXt-Window-Management-System\neXt Window Managment System\neXt Window Managment System\bin\Debug\net6.0-windows\neXt Window Managment System.dll</HintPath>
+    </Reference>
+    <Reference Include="Universal Map Data">
+      <HintPath>..\..\Universal Map Data\Universal Map Data\bin\Debug\net6.0-windows\Universal Map Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="My Project\Application.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
