@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|c:\\users\\deniz\\documents\\github\\universal-map-data\\versions\\umdv3.00\\universal map data\\universal map data\\reader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|solutionrelative:universal map data\\reader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|c:\\users\\deniz\\documents\\github\\universal-map-data\\versions\\umdv3.00\\universal map data\\universal map data\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|solutionrelative:universal map data\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|c:\\users\\deniz\\documents\\github\\universal-map-data\\versions\\umdv3.00\\universal map data\\universal map data\\tiledatacontainer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|solutionrelative:universal map data\\tiledatacontainer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|c:\\users\\deniz\\documents\\github\\universal-map-data\\versions\\umdv3.00\\universal map data\\universal map data\\packer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|solutionrelative:universal map data\\packer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|c:\\users\\deniz\\documents\\github\\universal-map-data\\versions\\umdv3.00\\universal map data\\universal map data\\formatversion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|solutionrelative:universal map data\\formatversion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|c:\\users\\deniz\\documents\\github\\universal-map-data\\versions\\umdv3.00\\universal map data\\universal map data\\universal map data.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|solutionrelative:universal map data\\universal map data.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|c:\\users\\deniz\\documents\\github\\universal-map-data\\versions\\umdv3.00\\universal map data\\universal map data\\imapcompositor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{78665B60-4065-84D5-7D16-99F3B6FBE353}|Universal Map Data\\Universal Map Data.vbproj|solutionrelative:universal map data\\imapcompositor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 457,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Universal Map Data",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\Universal Map Data.vbproj",
+              "RelativeDocumentMoniker": "Universal Map Data\\Universal Map Data.vbproj",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\Universal Map Data.vbproj",
+              "RelativeToolTip": "Universal Map Data\\Universal Map Data.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2026-09-10T23:50:43.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormatVersion.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\FormatVersion.vb",
+              "RelativeDocumentMoniker": "Universal Map Data\\FormatVersion.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\FormatVersion.vb",
+              "RelativeToolTip": "Universal Map Data\\FormatVersion.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-10T23:06:58.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMapCompositor.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\IMapCompositor.vb",
+              "RelativeDocumentMoniker": "Universal Map Data\\IMapCompositor.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\IMapCompositor.vb",
+              "RelativeToolTip": "Universal Map Data\\IMapCompositor.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-10T23:03:20.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Packer.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\Packer.vb",
+              "RelativeDocumentMoniker": "Universal Map Data\\Packer.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\Packer.vb",
+              "RelativeToolTip": "Universal Map Data\\Packer.vb",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAIwMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-10T22:39:46.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reader.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\Reader.vb",
+              "RelativeDocumentMoniker": "Universal Map Data\\Reader.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\Reader.vb",
+              "RelativeToolTip": "Universal Map Data\\Reader.vb",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAmwGYBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-10T22:38:46.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TileDataContainer.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\TileDataContainer.vb",
+              "RelativeDocumentMoniker": "Universal Map Data\\TileDataContainer.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\TileDataContainer.vb",
+              "RelativeToolTip": "Universal Map Data\\TileDataContainer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-12T13:04:30.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\Test.vb",
+              "RelativeDocumentMoniker": "Universal Map Data\\Test.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv3.00\\Universal Map Data\\Universal Map Data\\Test.vb",
+              "RelativeToolTip": "Universal Map Data\\Test.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-10T22:39:48.479Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 159,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

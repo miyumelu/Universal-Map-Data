@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv2.00\\UMD Create\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1D9AFF-E1C0-79CF-6020-44B51C9AD461}|UMD Create\\UMD Create.vbproj|c:\\users\\deniz\\documents\\github\\universal-map-data\\versions\\umdv2.00\\umd create\\umd create\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3C1D9AFF-E1C0-79CF-6020-44B51C9AD461}|UMD Create\\UMD Create.vbproj|solutionrelative:umd create\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1D9AFF-E1C0-79CF-6020-44B51C9AD461}|UMD Create\\UMD Create.vbproj|c:\\users\\deniz\\documents\\github\\universal-map-data\\versions\\umdv2.00\\umd create\\umd create\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3C1D9AFF-E1C0-79CF-6020-44B51C9AD461}|UMD Create\\UMD Create.vbproj|solutionrelative:umd create\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1D9AFF-E1C0-79CF-6020-44B51C9AD461}|UMD Create\\UMD Create.vbproj|c:\\users\\deniz\\documents\\github\\universal-map-data\\versions\\umdv2.00\\umd create\\umd create\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3C1D9AFF-E1C0-79CF-6020-44B51C9AD461}|UMD Create\\UMD Create.vbproj|solutionrelative:umd create\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 457,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv2.00\\UMD Create\\UMD Create\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "UMD Create\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv2.00\\UMD Create\\UMD Create\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "UMD Create\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAvwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-16T22:24:49.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv2.00\\UMD Create\\UMD Create\\MainPage.vb",
+              "RelativeDocumentMoniker": "UMD Create\\MainPage.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv2.00\\UMD Create\\UMD Create\\MainPage.vb*",
+              "RelativeToolTip": "UMD Create\\MainPage.vb*",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwIEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-16T22:23:00.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.vb [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv2.00\\UMD Create\\UMD Create\\MainPage.vb",
+              "RelativeDocumentMoniker": "UMD Create\\MainPage.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Universal-Map-Data\\Versions\\UMDv2.00\\UMD Create\\UMD Create\\MainPage.vb [Entwurf]*",
+              "RelativeToolTip": "UMD Create\\MainPage.vb [Entwurf]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-16T22:21:48.753Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 159,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

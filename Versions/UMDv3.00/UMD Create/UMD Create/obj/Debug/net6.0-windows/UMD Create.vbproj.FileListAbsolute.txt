@@ -1,0 +1,24 @@
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\UMD Create.vbproj.AssemblyReference.cache
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\UMD_Create.MainPage.resources
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\UMD Create.vbproj.GenerateResource.cache
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\UMD Create.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\UMD Create.AssemblyInfoInputs.cache
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\UMD Create.AssemblyInfo.vb
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\UMD Create.vbproj.CoreCompileInputs.cache
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\UMD Create.sourcelink.json
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\bin\Debug\net6.0-windows\UMD Create.exe
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\bin\Debug\net6.0-windows\UMD Create.deps.json
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\bin\Debug\net6.0-windows\UMD Create.runtimeconfig.json
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\bin\Debug\net6.0-windows\UMD Create.dll
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\bin\Debug\net6.0-windows\UMD Create.pdb
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\bin\Debug\net6.0-windows\neXt Window Managment System.dll
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\bin\Debug\net6.0-windows\Universal Map Data.dll
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\bin\Debug\net6.0-windows\neXt Window Managment System.pdb
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\bin\Debug\net6.0-windows\Universal Map Data.pdb
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\UMD Create.vbproj.Up2Date
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\UMD Create.dll
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\refint\UMD Create.dll
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\UMD Create.pdb
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\UMD Create.genruntimeconfig.cache
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\obj\Debug\net6.0-windows\ref\UMD Create.dll
+C:\Users\deniz\Documents\GitHub\Universal-Map-Data\Versions\UMDv3.00\UMD Create\UMD Create\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
